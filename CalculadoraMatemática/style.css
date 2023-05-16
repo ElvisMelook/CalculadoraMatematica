@@ -62,7 +62,8 @@ button:hover {
     background-color: rgb(0, 0, 0);
 
 }
-.result {
+#result {
     color: black;
     font-size: 2em;
+    text-align: right;
 }
